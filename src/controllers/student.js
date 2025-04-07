@@ -1,4 +1,4 @@
-class CustomerController {
+class StudentController {
     constructor(service) {
       this.service = service;
     }
@@ -8,5 +8,5 @@ class CustomerController {
     }
 }
   
-module.exports = CustomerController;
+module.exports = StudentController;
   
